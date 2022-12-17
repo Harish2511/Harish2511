@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mortar_board: I’m currently a cse undergrad from Amrita Vishwa Vidyapeetham
+- :mortar_board: CSE undergrad from Amrita Vishwa Vidyapeetham
 - :office: Developer Intern @Intellifer Systems
 - AWS Certified Cloud Practioner
 - 📫 How to reach me: harish251102@gmail.com
