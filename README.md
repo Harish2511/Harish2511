@@ -1,4 +1,4 @@
-### Hi there 👋
+### print('Hello World !')
 
 - :mortar_board: CSE undergrad from Amrita Vishwa Vidyapeetham
 - :office: Developer Intern @Intellifer Systems
